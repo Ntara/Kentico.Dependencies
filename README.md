@@ -3,6 +3,14 @@
 This library contains all [Kentico CMS](http://www.kentico.com/product/overview) and
 third-party binaries provided by Kentico during a typical CMS installation.
 
+## Distributions
+
+The following binary distributions are provided:
+
+* Common - *Third-party binaries compatible with any of the included frameworks*
+* Net46 - *Framework-specific binaries targeting .NET Framework 4.6*
+* Net47 - *Framework-specific binaries targeting .NET Framework 4.7*
+
 ## Licensing
 
 Redistribution and use in binary forms, without modification, are permitted provided
